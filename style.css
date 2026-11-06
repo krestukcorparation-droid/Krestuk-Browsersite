@@ -1,0 +1,64 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #00A2E8FF;
+}
+
+.download-button-one a{
+    background-color: rgb(1, 247, 247);
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.download-button-one{
+    display: flex;
+    gap: 10px;
+    margin-left: 20px;
+}
+.download-button-one a:hover{
+    color: rgb(255, 0, 64);
+    background-color: aqua;
+    transition: all .5s;
+}
+
+.download-button-two a{
+    background-color: rgb(54, 233, 0);
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.download-button-two{
+    display: flex;
+    gap: 10px;
+    margin-left: 20px;
+}
+.download-button-two a:hover{
+    color: rgb(255, 0, 64);
+    background-color: aqua;
+    transition: all .5s;
+}
+
+h1{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h4{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

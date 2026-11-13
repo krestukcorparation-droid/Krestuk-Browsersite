@@ -108,3 +108,30 @@ u{
     color: black;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+
+.infotech a{
+    background-color: rgb(168, 214, 0);
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.infotech{
+    display: flex;
+    gap: 10px;
+    margin-left: 20px;
+}
+
+.infotech a:hover{
+    color: rgb(3, 3, 3);
+    background-color: rgb(243, 4, 183);
+    transition: all .5s;
+}
+
+i{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
